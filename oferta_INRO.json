@@ -369,9 +369,9 @@
         "Cupos disponibles": "14",
         "Horario": "1500-1655",
         "Dias": ". M . J . .",
-        "Edificio": "DUCT",
-        "Aula": "1LC0",
-        "Periodo": "716/01/19 - 31/05/1",
+        "Edificio": "DUCT1",
+        "Aula": "LC07",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
     },
     {
@@ -384,9 +384,9 @@
         "Cupos disponibles": "5",
         "Horario": "1100-1455",
         "Dias": ". . . . V .",
-        "Edificio": "DUCT",
-        "Aula": "2LC0",
-        "Periodo": "716/01/19 - 31/05/1",
+        "Edificio": "DUCT2",
+        "Aula": "LC07",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "SENCION ECHAURI, FELIPE"
     },
     {
@@ -504,9 +504,9 @@
         "Cupos disponibles": "13",
         "Horario": "1500-1655",
         "Dias": ". M . J . .",
-        "Edificio": "DUCT",
-        "Aula": "2LC1",
-        "Periodo": "016/01/19 - 31/05/1",
+        "Edificio": "DUCT2",
+        "Aula": "LC10",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "RIOS ARRA\ufffdAGA, JORGE DANIEL"
     },
     {
@@ -759,9 +759,9 @@
         "Cupos disponibles": "6",
         "Horario": "1500-1655",
         "Dias": "L . I . . .",
-        "Edificio": "DUCT",
-        "Aula": "1LC1",
-        "Periodo": "016/01/19 - 31/05/1",
+        "Edificio": "DUCT1",
+        "Aula": "LC10",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
     },
     {
@@ -834,9 +834,9 @@
         "Cupos disponibles": "5",
         "Horario": "1700-1855",
         "Dias": ". M . J . .",
-        "Edificio": "DUCT",
-        "Aula": "1LC0",
-        "Periodo": "716/01/19 - 31/05/1",
+        "Edificio": "DUCT1",
+        "Aula": "LC07",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
     },
     {
@@ -909,9 +909,9 @@
         "Cupos disponibles": "2",
         "Horario": "0700-0855",
         "Dias": ". . I . V .",
-        "Edificio": "DUCT",
-        "Aula": "1LC0",
-        "Periodo": "216/01/19 - 31/05/1",
+        "Edificio": "DUCT1",
+        "Aula": "LC02",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
     },
     {
@@ -924,9 +924,9 @@
         "Cupos disponibles": "1",
         "Horario": "0700-0855",
         "Dias": ". M . J . .",
-        "Edificio": "DUCT",
-        "Aula": "2LC0",
-        "Periodo": "416/01/19 - 31/05/1",
+        "Edificio": "DUCT2",
+        "Aula": "LC04",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
     },
     {
@@ -939,9 +939,9 @@
         "Cupos disponibles": "8",
         "Horario": "1900-2055",
         "Dias": ". M . J . .",
-        "Edificio": "DUCT",
-        "Aula": "2LC0",
-        "Periodo": "516/01/19 - 31/05/1",
+        "Edificio": "DUCT2",
+        "Aula": "LC05",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "LANDA HORTA, DANIEL OMAR"
     },
     {
@@ -954,9 +954,9 @@
         "Cupos disponibles": "2",
         "Horario": "1100-1455",
         "Dias": ". . . . V .",
-        "Edificio": "DUCT",
-        "Aula": "2LC0",
-        "Periodo": "516/01/19 - 31/05/1",
+        "Edificio": "DUCT2",
+        "Aula": "LC05",
+        "Periodo": "16/01/19 - 31/05/19",
         "Profesor": "DAVALOS BOITES, MICHEL"
     },
     {
