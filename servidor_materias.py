@@ -11,7 +11,7 @@ cursor_materia = conexion.cursor()
 cursor_aula = conexion.cursor()
 cursor_edificio = conexion.cursor()
 
-@app.route("/api/v1/clases/")
+@app.route("/app/v1/clases/")
 
 def sacar_clases():
     query = "SELECT * FROM clase"
